@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Neo Coin**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-ten-nu-37.vercel.app/](https://portfolio-eliseodev.vercel.app/)](https://portfolio-ten-nu-37.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-eliseodev.vercel.app/] Portfolio
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eliseodev/](https://www.linkedin.com/in/eliseodev/)
 

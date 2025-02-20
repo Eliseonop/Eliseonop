@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nextjs and Vue, but I'm a specialist in Reactjs**
 
-- 👯 I’m looking to collaborate on **Neo Coin**
+- 👯 I’m looking to collaborate on **TCONTUR**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eliseodev.vercel.app/] Portfolio
 
